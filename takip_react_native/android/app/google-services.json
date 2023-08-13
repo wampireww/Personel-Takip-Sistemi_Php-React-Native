@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619797779761",
+    "project_id": "personeltakip-e78e5",
+    "storage_bucket": "personeltakip-e78e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619797779761:android:f7629995eb6bc5f4630c10",
+        "android_client_info": {
+          "package_name": "com.takipproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619797779761-rlihj4nnkk6ecb16njsv9joreq3dupbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4Mb28z9G5FNMbNxddjiq4TZKB2zcprA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619797779761-rlihj4nnkk6ecb16njsv9joreq3dupbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
